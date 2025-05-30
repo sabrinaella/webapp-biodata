@@ -9,10 +9,6 @@
         <td>Sabrina Ella Zafira</td>
       </tr>
       <tr>
-        <th>NIM</th>
-        <td>225150707111079</td>
-      </tr>
-      <tr>
         <th>Email</th>
         <td>sabrinaella@student.ub.ac.id</td>
       </tr>
